@@ -1,1 +1,1 @@
-# Bookself-API-Hapi
+# Bookself API Hapi
