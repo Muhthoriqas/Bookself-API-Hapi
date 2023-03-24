@@ -4,7 +4,7 @@
 
 # Bookself App using Hapi Framework
 
-This repository contains a simple Bookself API built using Hapi Framework. The app allows users to add, edit, and delete Bookself. It consists of four main files located in the `src` directory: `handler.js`, `Bookself.js`, `routes.js`, and `server.js`.
+This repository contains a simple Bookself API built using Hapi Framework. The app allows users to add, edit, and delete Bookself. It consists of four main files located in the `src` directory: `handler.js`, `books.js`, `routes.js`, and `server.js`.
 
 ## Requirements
 
@@ -30,7 +30,7 @@ To run this app, you'll need to have the following installed:
 ## Code Structure
 
 - `handler.js`: Contains the logic for handling requests and responses (*for now I hide this file*)
-- `Bookself.js`: Contains an array of Bookself that is used by the app
+- `books.js`: Contains an array of Bookself that is used by the app
 - `routes.js`: Defines the routes for the app
 - `server.js`: Starts the server and registers the routes
 
@@ -43,4 +43,4 @@ This project uses [ESLint](https://eslint.org/) with the [Airbnb JavaScript Styl
 Contributions are welcome! If you find a bug or have a feature request, please open an issue or submit a pull request.
 
 ## License
-This repository is licensed under the MIT License. See the <a href="https://github.com/Muhthoriqas/Bookself-App-Hapi/blob/master/LICENSE">LICENSE</a> file for more information.
+This repository is licensed under the MIT License. See the <a href="https://github.com/Muhthoriqas/Bookself-API-Hapi/blob/master/LICENSE">LICENSE</a> file for more information.
