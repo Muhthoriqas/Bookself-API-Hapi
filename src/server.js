@@ -3,7 +3,6 @@ const routes = require('./routes');
 
 const init = async () => {
   const server = Hapi.Server({
-    // Kriteria 1 : Aplikasi menggunakan port 9000
     port: 9000,
     host: 'localhost',
     routes: {
