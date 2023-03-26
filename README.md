@@ -43,4 +43,4 @@ This project uses [ESLint](https://eslint.org/) with the [Airbnb JavaScript Styl
 Contributions are welcome! If you find a bug or have a feature request, please open an issue or submit a pull request.
 
 ## License
-This repository is licensed under the MIT License. See the <a href="https://github.com/Muhthoriqas/Bookself-API-Hapi/blob/master/LICENSE">LICENSE</a> file for more information.
+This repository is licensed under the MIT License. See the <a href="https://github.com/Muhthoriqas/Bookself-API-Hapi/blob/master/LICENSE">LICENSE</a> file for more information
